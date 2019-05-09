@@ -1,9 +1,3 @@
-"""
-Name: Conor Stripling
-Section: 002
-UCID: cs439
-
-"""
 
 import sys, os, datetime, time
 from socket import *

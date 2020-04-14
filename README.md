@@ -6,6 +6,6 @@ The purpose of this project was to gain knowledge of how internet protocols work
 Format for commandline arguments for client.py: 
 hostname:port/filename.html
 
-Format for commandline arguments for server.py
+Format for commandline arguments for server.py:
 hostname port
 
